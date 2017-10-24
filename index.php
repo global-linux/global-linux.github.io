@@ -1,6 +1,3 @@
-<?php
-
-echo "
 <html>
   <head>
     <title>
@@ -8,8 +5,7 @@ echo "
     </title>
   </head>
   <bodY>
+    <?php echo "Bora ver se vai" ?></br>
     GO GO YOU CAN
   </bodY>
 </html>
-"
-?>
