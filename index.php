@@ -1,3 +1,6 @@
+<?php
+
+echo "
 <html>
   <head>
     <title>
@@ -8,3 +11,5 @@
     GO GO YOU CAN
   </bodY>
 </html>
+"
+?>
